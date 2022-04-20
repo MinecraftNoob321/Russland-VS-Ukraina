@@ -1,0 +1,25 @@
+*{
+    
+    background-size: cover;
+}
+.header{
+    color: #f7f7f7;
+    text-align: center;
+    background-image: url(pictures/Russland_VS_Ukraina.png);
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 25px;
+}
+.title{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 45px;
+}
+.text{
+    background-color: #fff;
+    color: black;
+    position: relative;
+    font-family: Arial;
+    width: 101.15%;
+    right: .55%;
+}
